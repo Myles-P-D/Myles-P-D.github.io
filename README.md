@@ -1,4 +1,4 @@
-<h1 style= color: #000> CIT Minor Portfolio </h1>
+# CIT Minor Portfolio 
 
 ## CIT 281: 
 ### Labs:
