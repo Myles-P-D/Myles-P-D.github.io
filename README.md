@@ -1,6 +1,6 @@
-#CIT Minor Portfolio: 
+# CIT Minor Portfolio: 
 
-##CIT 281: 
+## CIT 281: 
 
 -Lab 01
 
