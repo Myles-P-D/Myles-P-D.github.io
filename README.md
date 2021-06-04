@@ -1,6 +1,8 @@
 # CIT Minor Portfolio 
 
 ## CIT 281: 
+Spring 2021
+
 ### Labs:
 -[Lab 01](https://myles-p-d.github.io/cit281-lab01/)  
 > The purpose of this lab was to get experience with the command line as well as set up software (such as git, etc.) for the remainder of this class.  
