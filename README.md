@@ -7,10 +7,10 @@ Spring 2021
 -[Lab 01](https://myles-p-d.github.io/cit281-lab01/)  
 > The purpose of this lab was to get experience with the command line as well as set up software (such as git, etc.) for the remainder of this class.  
 
--Lab 02  
+-[Lab 02](https://myles-p-d.github.io/cit281-lab02/)  
 > The purpose of this lab was to gain expereince using git to track changes and learn command line commands for git.  
 
--Lab 03  
+-[Lab 03](https://myles-p-d.github.io/cit281-lab03/)  
 > The purpose of this lab was to gain experience with modern javascript syntax with arrays and objects as well as experience using node. 
  
 -Lab 04  
