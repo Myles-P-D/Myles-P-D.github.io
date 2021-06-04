@@ -13,22 +13,22 @@ Spring 2021
 -[Lab 03](https://myles-p-d.github.io/cit281-lab03/)  
 > The purpose of this lab was to gain experience with modern javascript syntax with arrays and objects as well as experience using node. 
  
--Lab 04  
+-[Lab 04](https://myles-p-d.github.io/cit281-lab04/)  
 > This lab was used to introduce fastify and server creation, we also continued using git to track changes. 
  
--Lab 05  
+-[Lab 05](https://myles-p-d.github.io/cit281-lab05/)  
 > The purpose of this lab was to use Postman in order to use GET and POST server requests.   
 
--Lab 06  
+-[Lab 06](https://myles-p-d.github.io/cit281-lab06/)  
 > The purpose of this lab was to join GitHub and gain experience working with classes in javascript.   
 
--Lab 07  
+-[Lab 07](https://myles-p-d.github.io/cit281-lab07/)  
 > The purpouse of this lab is to set up an organization for the CIT minor and gain expereince pushing and pulling from GitHub.   
 
--Lab 08  
+-[Lab 08](https://myles-p-d.github.io/cit281-lab08/)  
 > The purpose of this lab is to set up a fastify server and then use fetch to retrieve data and procces requests with this data in JSON.   
 
--Lab 09  
+-[Lab 09](https://myles-p-d.github.io/cit281-lab09/)  
 > The purpose of this lab is to create a release based workflow through GitHub.   
 
 ### Projects:
