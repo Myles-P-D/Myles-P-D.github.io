@@ -33,25 +33,25 @@ Spring 2021
 
 ### Projects:
 
--Project 01
+-[Project 01](https://myles-p-d.github.io/cit281-p1/)
 > This project was used to gain experience using the command line a well as refresh VScode skills. 
 
--Project 02
+-[Project 02](https://myles-p-d.github.io/cit281-p2/)
 > This project was used to gain experience using the command line to create directories as well as use VScode source control.
 
--Project 03
+-[Project 03](https://myles-p-d.github.io/cit281-p3/)
 > This project was used to gain expereince with fastify servers as well as using Get verbs. This server ran off of a seperate .js file.
 
--Project 04
+-[Project 04](https://myles-p-d.github.io/cit281-p4/)
 > This project was used to gain expereince with REST API and GET verbs and routes. This lab used postman to test server requests working with JSON.
 
--Project 05
+-[Project 05](https://myles-p-d.github.io/cit281-p5/)
 > This project was an extra credit assignment that created a game using modules and classes. 
 
--Project 06
+-[Project 06](https://myles-p-d.github.io/cit281-p6/)
 > This project used classes to define shapes and construct their metadata. This project also developed debugging skills and using static data.
 
--Project 07
+-[Project 07](https://myles-p-d.github.io/cit281-p7/)
 > This project sets up the (current) GitHub page for the CIT minor. 
 
 
